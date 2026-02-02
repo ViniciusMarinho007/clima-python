@@ -16,3 +16,17 @@ Este é um projeto simples em Python para consultar a **previsão do clima** de 
 
 ```bash
 git clone https://github.com/ViniciusMarinho007/clima-python.git
+
+Instale as dependências:
+
+pip install -r requirements.txt
+
+2. Rode o projeto:
+
+python main.py
+
+3. Observações
+
+É necessário ter uma API key do OpenWeatherMap. Substitua a chave no arquivo weather_api.py se desejar usar a sua própria.
+
+Projeto focado em aprendizado e boas práticas.
